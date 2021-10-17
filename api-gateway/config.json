@@ -1,0 +1,6 @@
+{
+   "newsServerCount": 1,
+   "commentsServerCount": 1,
+   "newsServerEndpointTemplate": "http://localhost:400%d/news",
+   "commentsServerEndpointTemplate": "http://localhost:500%d/comments"
+}
